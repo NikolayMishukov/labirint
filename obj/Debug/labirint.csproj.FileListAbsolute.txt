@@ -1,0 +1,11 @@
+C:\Users\NickM\Downloads\labirint\bin\Debug\labirint.exe.config
+C:\Users\NickM\Downloads\labirint\bin\Debug\labirint.exe
+C:\Users\NickM\Downloads\labirint\bin\Debug\labirint.pdb
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.csprojAssemblyReference.cache
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.FrmHello.resources
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.Labirint.resources
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.FrmMenu.resources
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.exe
+C:\Users\NickM\Downloads\labirint\obj\Debug\labirint.pdb
